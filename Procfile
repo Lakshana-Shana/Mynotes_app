@@ -1,0 +1,1 @@
+web: guincorn notes.wsgi:application
